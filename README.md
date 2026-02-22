@@ -13,5 +13,6 @@ This document identifies a critical conceptual oversight that has persisted in t
 
 ## Copyright / 著作権
 https://doi.org/10.5281/zenodo.18714992
+https://zenodo.org/badge/DOI/10.5281/zenodo.18714992.svg
 © 2026 Yukie Fukuda. All rights reserved.
 著作権により保護されています。引用や新たな論文作成には著者の許可が必要です。
