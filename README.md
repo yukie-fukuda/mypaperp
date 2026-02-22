@@ -11,8 +11,13 @@ This document identifies a critical conceptual oversight that has persisted in t
 ## Document / 本編
 詳細はリポジトリ内の `pape.pdf` をご覧ください。
 
-## Copyright / 著作権
+## Citation / 引用
+本論文を引用する際は、以下の情報を記載してください。
+
+Yukie Fukuda. (2026). [一般相対性理論における時間・重力・次元の統合的理解
+（重力の孤立概念から時空構造・次元生成まで）］
 https://doi.org/10.5281/zenodo.18714992
-DOI/10.5281/zenodo.18714992
+
+## Copyright / 著作権
 © 2026 Yukie Fukuda. All rights reserved.
-著作権により保護されています。引用や新たな論文作成には著者の許可が必要です。
+本リポジトリの内容の無断転載・再配布を禁じます。引用の際は上記出典（DOI）を明記してください。
