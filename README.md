@@ -12,6 +12,7 @@ This document identifies a critical conceptual oversight that has persisted in t
 詳細はリポジトリ内の `pape.pdf` をご覧ください。
 
 ## Copyright / 著作権
+https://doi.org/10.5281/zenodo.18714992
 DOI/10.5281/zenodo.18714992
 © 2026 Yukie Fukuda. All rights reserved.
 著作権により保護されています。引用や新たな論文作成には著者の許可が必要です。
