@@ -1,7 +1,7 @@
 # Integrated Understanding of Time, Gravity, and Dimensions in General Relativity
 ## 一般相対性理論における時間・重力・次元の統合的理解
 
-[![DOI](https://zenodo.org/badge/DOI/ここにあなたのDOIをいれる.svg)](https://doi.org/ここにあなたのDOIをいれる)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.18714992.svg)](https://doi.org/10.5281/zenodo.18714992)
 
 ### [Abstract / 要旨]
 Gravity is not merely the "curvature of space." This paper re-evaluates General Relativity by clarifying the structural role of time that has remained under-conceptualized. 
