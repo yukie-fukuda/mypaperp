@@ -1,12 +1,30 @@
-# 100-Year Oversight in Physical Concepts
-アインシュタイン後、100年間世間の理解が見落としてきた構造の言語化
+# Integrated Understanding of Time, Gravity, and Dimensions in General Relativity
+## 一般相対性理論における時間・重力・次元の統合的理解
 
-## Overview / 概要
-アインシュタインが統合した時空構造の中に存在しながら、これまで十分に言語化されてこなかった「時間成分による引き込み」の性質を、既存の数理体系を維持したまま再配置しました。
+[![DOI](https://zenodo.org/badge/DOI/ここにあなたのDOIをいれる.svg)](https://doi.org/ここにあなたのDOIをいれる)
 
-本論文は、重力を単なる「空間の曲がり」という比喩から解放し、時間・重力・次元を単一の「自己回帰構造」の相として捉え直すものです。
+### [Abstract / 要旨]
+Gravity is not merely the "curvature of space." This paper re-evaluates General Relativity by clarifying the structural role of time that has remained under-conceptualized. 
+重力とは、単なる「空間の曲がり」ではない。本稿は、これまで十分に言語化されてこなかった「時間の構造的役割」を明らかにすることで、一般相対性理論を再評価するものである。
 
-This document identifies a critical conceptual oversight that has persisted in the world's understanding of physics for 100 years. It re-articulates the role of the time component and dimensional generation within General Relativity.
+### [Key Concept 1: The Attraction of Time / 時間の引力]
+Gravity is the structural manifestation of the gradient in the time component ($g_{tt}$) of the spacetime metric. It is the spatial orientation toward which time flows more slowly.
+重力とは、時空計量における時間成分（$g_{tt}$）の勾配が構造的に現れたものである。それは「時間がよりゆっくり流れる方向」へと向かう空間的な指向性である。
+
+### [Key Concept 2: Dimensional Generation via Self-Recursion / 自己回帰による次元生成]
+Dimensions are not independent axes added externally. A dimension is a "progression" that, when curved back upon itself (Recursion), generates higher-order structures.
+次元とは、外部から与えられた独立した座標軸ではない。次元とは一つの「進行」であり、それが自らの方へ湾曲し戻る（回帰）とき、高次構造を形成するものである。
+
+---
+
+### [Full Text / 論文全文]
+- **English PDF:** [Available on Zenodo](https://doi.org/10.5281/zenodo.18714992) (Work in progress / 翻訳中)
+- **Japanese PDF:** [Available on Zenodo](https://doi.org/10.5281/zenodo.18714992)
+
+### [Note / 備考]
+This repository provides the conceptual framework and logical derivation described in the paper. No simplified diagrams are provided, as the logic must be understood through the rigorous structure of the text and equations.
+本リポジトリは、論文に記述された概念的枠組みと論理的導出を提供する。図解による簡略化は行わない。論理は、本文および数式の厳密な構造を通じて理解されるべきものである。
+
 
 ## Document / 本編
 詳細はリポジトリ内の `pape.pdf` をご覧ください。
